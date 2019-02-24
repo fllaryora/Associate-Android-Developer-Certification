@@ -1,0 +1,103 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/francisco/AndroidStudioProjects/Associate-Android-Developer-Certification/NotifyMe/app/src/main/AndroidManifest.xml:20:1-39:12
+INJECTED from /home/francisco/AndroidStudioProjects/Associate-Android-Developer-Certification/NotifyMe/app/src/main/AndroidManifest.xml:20:1-39:12
+INJECTED from /home/francisco/AndroidStudioProjects/Associate-Android-Developer-Certification/NotifyMe/app/src/main/AndroidManifest.xml:20:1-39:12
+INJECTED from /home/francisco/AndroidStudioProjects/Associate-Android-Developer-Certification/NotifyMe/app/src/main/AndroidManifest.xml:20:1-39:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/francisco/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/fb341fcf978f2978a9cfc3e8478fb943/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/francisco/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/de332937031bcd45ee5d194ddc360f49/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] /home/francisco/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/7f5fa05f31aef5de3f681c3478efec60/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/francisco/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/8ef36ff76d7d362d4e002ebd0e86e9aa/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/francisco/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/57982d40c0769b042adf0a252a29c7f4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/francisco/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/1c5623746ed1d0abcf4e456010939938/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/francisco/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/35ae6c77c411b3171981c1343f37bcef/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /home/francisco/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/b25d656a0f0b3f0c393e0ab473413c0f/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/francisco/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/9f3f326f4a3619fc2125ac69cdff21a4/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/francisco/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/9c33017925eee0901880a8cfd6cce001/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/francisco/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/92f74bf56fb943d941c760d34fe7bbc6/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /home/francisco/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/28a9337f3de967961e3340826fa847d6/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/francisco/AndroidStudioProjects/Associate-Android-Developer-Certification/NotifyMe/app/src/main/AndroidManifest.xml:20:1-39:12
+INJECTED from /home/francisco/AndroidStudioProjects/Associate-Android-Developer-Certification/NotifyMe/app/src/main/AndroidManifest.xml:20:1-39:12
+INJECTED from /home/francisco/AndroidStudioProjects/Associate-Android-Developer-Certification/NotifyMe/app/src/main/AndroidManifest.xml:20:1-39:12
+	package
+		ADDED from /home/francisco/AndroidStudioProjects/Associate-Android-Developer-Certification/NotifyMe/app/src/main/AndroidManifest.xml:21:5-43
+		INJECTED from /home/francisco/AndroidStudioProjects/Associate-Android-Developer-Certification/NotifyMe/app/src/main/AndroidManifest.xml
+		INJECTED from /home/francisco/AndroidStudioProjects/Associate-Android-Developer-Certification/NotifyMe/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/francisco/AndroidStudioProjects/Associate-Android-Developer-Certification/NotifyMe/app/src/main/AndroidManifest.xml
+		ADDED from /home/francisco/AndroidStudioProjects/Associate-Android-Developer-Certification/NotifyMe/app/src/main/AndroidManifest.xml:20:1-39:12
+		INJECTED from /home/francisco/AndroidStudioProjects/Associate-Android-Developer-Certification/NotifyMe/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/francisco/AndroidStudioProjects/Associate-Android-Developer-Certification/NotifyMe/app/src/main/AndroidManifest.xml
+		ADDED from /home/francisco/AndroidStudioProjects/Associate-Android-Developer-Certification/NotifyMe/app/src/main/AndroidManifest.xml:20:1-39:12
+		INJECTED from /home/francisco/AndroidStudioProjects/Associate-Android-Developer-Certification/NotifyMe/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/francisco/AndroidStudioProjects/Associate-Android-Developer-Certification/NotifyMe/app/src/main/AndroidManifest.xml:20:11-69
+application
+ADDED from /home/francisco/AndroidStudioProjects/Associate-Android-Developer-Certification/NotifyMe/app/src/main/AndroidManifest.xml:23:5-37:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/francisco/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/de332937031bcd45ee5d194ddc360f49/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/francisco/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/de332937031bcd45ee5d194ddc360f49/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /home/francisco/AndroidStudioProjects/Associate-Android-Developer-Certification/NotifyMe/app/src/main/AndroidManifest.xml:28:9-35
+	android:label
+		ADDED from /home/francisco/AndroidStudioProjects/Associate-Android-Developer-Certification/NotifyMe/app/src/main/AndroidManifest.xml:26:9-41
+	android:roundIcon
+		ADDED from /home/francisco/AndroidStudioProjects/Associate-Android-Developer-Certification/NotifyMe/app/src/main/AndroidManifest.xml:27:9-54
+	android:icon
+		ADDED from /home/francisco/AndroidStudioProjects/Associate-Android-Developer-Certification/NotifyMe/app/src/main/AndroidManifest.xml:25:9-43
+	android:allowBackup
+		ADDED from /home/francisco/AndroidStudioProjects/Associate-Android-Developer-Certification/NotifyMe/app/src/main/AndroidManifest.xml:24:9-35
+	android:theme
+		ADDED from /home/francisco/AndroidStudioProjects/Associate-Android-Developer-Certification/NotifyMe/app/src/main/AndroidManifest.xml:29:9-40
+activity#com.android.example.notifyme.MainActivity
+ADDED from /home/francisco/AndroidStudioProjects/Associate-Android-Developer-Certification/NotifyMe/app/src/main/AndroidManifest.xml:30:9-36:20
+	android:name
+		ADDED from /home/francisco/AndroidStudioProjects/Associate-Android-Developer-Certification/NotifyMe/app/src/main/AndroidManifest.xml:30:19-75
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/francisco/AndroidStudioProjects/Associate-Android-Developer-Certification/NotifyMe/app/src/main/AndroidManifest.xml:31:13-35:29
+action#android.intent.action.MAIN
+ADDED from /home/francisco/AndroidStudioProjects/Associate-Android-Developer-Certification/NotifyMe/app/src/main/AndroidManifest.xml:32:17-69
+	android:name
+		ADDED from /home/francisco/AndroidStudioProjects/Associate-Android-Developer-Certification/NotifyMe/app/src/main/AndroidManifest.xml:32:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/francisco/AndroidStudioProjects/Associate-Android-Developer-Certification/NotifyMe/app/src/main/AndroidManifest.xml:34:17-77
+	android:name
+		ADDED from /home/francisco/AndroidStudioProjects/Associate-Android-Developer-Certification/NotifyMe/app/src/main/AndroidManifest.xml:34:27-74
+uses-sdk
+INJECTED from /home/francisco/AndroidStudioProjects/Associate-Android-Developer-Certification/NotifyMe/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/francisco/AndroidStudioProjects/Associate-Android-Developer-Certification/NotifyMe/app/src/main/AndroidManifest.xml
+INJECTED from /home/francisco/AndroidStudioProjects/Associate-Android-Developer-Certification/NotifyMe/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/francisco/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/fb341fcf978f2978a9cfc3e8478fb943/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/francisco/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/fb341fcf978f2978a9cfc3e8478fb943/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/francisco/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/de332937031bcd45ee5d194ddc360f49/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/francisco/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/de332937031bcd45ee5d194ddc360f49/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] /home/francisco/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/7f5fa05f31aef5de3f681c3478efec60/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/francisco/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/7f5fa05f31aef5de3f681c3478efec60/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/francisco/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/8ef36ff76d7d362d4e002ebd0e86e9aa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/francisco/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/8ef36ff76d7d362d4e002ebd0e86e9aa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/francisco/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/57982d40c0769b042adf0a252a29c7f4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/francisco/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/57982d40c0769b042adf0a252a29c7f4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/francisco/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/1c5623746ed1d0abcf4e456010939938/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/francisco/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/1c5623746ed1d0abcf4e456010939938/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/francisco/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/35ae6c77c411b3171981c1343f37bcef/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/francisco/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/35ae6c77c411b3171981c1343f37bcef/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/francisco/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/b25d656a0f0b3f0c393e0ab473413c0f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/francisco/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/b25d656a0f0b3f0c393e0ab473413c0f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/francisco/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/9f3f326f4a3619fc2125ac69cdff21a4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/francisco/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/9f3f326f4a3619fc2125ac69cdff21a4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/francisco/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/9c33017925eee0901880a8cfd6cce001/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/francisco/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/9c33017925eee0901880a8cfd6cce001/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/francisco/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/92f74bf56fb943d941c760d34fe7bbc6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/francisco/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/92f74bf56fb943d941c760d34fe7bbc6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/francisco/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/28a9337f3de967961e3340826fa847d6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/francisco/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/28a9337f3de967961e3340826fa847d6/AndroidManifest.xml:20:5-44
+INJECTED from /home/francisco/AndroidStudioProjects/Associate-Android-Developer-Certification/NotifyMe/app/src/main/AndroidManifest.xml
+INJECTED from /home/francisco/AndroidStudioProjects/Associate-Android-Developer-Certification/NotifyMe/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/francisco/AndroidStudioProjects/Associate-Android-Developer-Certification/NotifyMe/app/src/main/AndroidManifest.xml
+		ADDED from /home/francisco/AndroidStudioProjects/Associate-Android-Developer-Certification/NotifyMe/app/src/main/AndroidManifest.xml
+		INJECTED from /home/francisco/AndroidStudioProjects/Associate-Android-Developer-Certification/NotifyMe/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/francisco/AndroidStudioProjects/Associate-Android-Developer-Certification/NotifyMe/app/src/main/AndroidManifest.xml
+		ADDED from /home/francisco/AndroidStudioProjects/Associate-Android-Developer-Certification/NotifyMe/app/src/main/AndroidManifest.xml
+		INJECTED from /home/francisco/AndroidStudioProjects/Associate-Android-Developer-Certification/NotifyMe/app/src/main/AndroidManifest.xml

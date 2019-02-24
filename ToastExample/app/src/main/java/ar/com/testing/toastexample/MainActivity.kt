@@ -17,6 +17,7 @@ import kotlinx.android.synthetic.main.activity_main.*
 import kotlinx.android.synthetic.main.content_main.*
 import java.lang.ref.WeakReference
 
+//https://www.dev2qa.com/android-custom-toast-example/
 class MainActivity : AppCompatActivity() {
 
     val SHOW_TOAST_MESSAGE: Int = 1
