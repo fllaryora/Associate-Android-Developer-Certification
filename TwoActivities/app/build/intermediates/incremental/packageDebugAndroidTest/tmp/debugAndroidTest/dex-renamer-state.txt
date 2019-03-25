@@ -1,0 +1,4 @@
+#Sun Mar 24 21:29:50 ART 2019
+base.0=/home/francisco/AndroidStudioProjects/Associate-Android-Developer-Certification/TwoActivities/app/build/intermediates/transforms/dexMerger/androidTest/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
