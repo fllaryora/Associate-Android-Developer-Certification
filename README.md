@@ -191,7 +191,75 @@ Thanks to [Pheonix73](https://github.com/Pheonix73) to contributing this section
   - [Android Jetpack: what's new in Architecture Components (Google I/O '18)](https://www.youtube.com/watch?v=pErTyQpA390)
   - [Udacity has Updated their Course and also added Architecutre Componemts Course also](https://in.udacity.com/course/new-android-fundamentals--ud851)
   
+# Updated Materials 2019 
+<!-- Update the Contents under to the new one -->
+Thanks to: https://github.com/tatsuya-fujisaki
 
+## Testing and debugging
+### Write and execute local JVM unit tests
+https://codelabs.developers.google.com/codelabs/android-testing
+https://codelabs.developers.google.com/codelabs/android-training-unit-tests
+### Write and execute Android UI tests
+https://codelabs.developers.google.com/codelabs/android-testing
+https://codelabs.developers.google.com/codelabs/android-training-espresso-for-ui-testing
+https://developer.android.com/training/testing/espresso/cheat-sheet
+### Use the system log to output debug information
+https://codelabs.developers.google.com/codelabs/android-training-using-debugger
+### Debug and fix issues with an app's functional behavior and usability
+https://codelabs.developers.google.com/codelabs/android-training-using-debugger
+## User interface (UI) and app functionality
+### Create an Activity that displays a layout
+https://codelabs.developers.google.com/codelabs/android-training-layout-editor-part-a
+https://codelabs.developers.google.com/codelabs/android-training-layout-editor-part-b
+### Construct a UI with ConstraintLayout
+https://codelabs.developers.google.com/codelabs/constraint-layout
+### Create a custom view class and add it to a layout
+https://codelabs.developers.google.com/codelabs/advanced-android-training-customize-view
+https://codelabs.developers.google.com/codelabs/advanced-android-training-custom-view-from-scratch
+### Add accessibility hooks to a custom view
+https://codelabs.developers.google.com/codelabs/basic-android-accessibility
+### Apply content descriptions to views for accessibility
+https://codelabs.developers.google.com/codelabs/basic-android-accessibility
+### Implement a custom app theme
+https://codelabs.developers.google.com/codelabs/android-training-drawables-styles-and-themes
+### Display items in a RecyclerView
+https://codelabs.developers.google.com/codelabs/android-training-create-recycler-view
+### Bind local data to a RecyclerView list using the paging library
+https://codelabs.developers.google.com/codelabs/android-paging
+### Implement menu-based or drawer navigation
+https://codelabs.developers.google.com/codelabs/android-training-menus-and-pickers
+https://codelabs.developers.google.com/codelabs/android-navigation
+### Localize the app
+(No suitable codelab found)
+https://developer.android.com/guide/topics/resources/localization
+### Display notifications, toasts, and snackbar messages
+https://codelabs.developers.google.com/codelabs/android-training-notifications
+https://codelabs.developers.google.com/codelabs/notification-channels-java/
+## Schedule a background task using JobScheduler
+https://codelabs.developers.google.com/codelabs/android-training-job-scheduler
+## Efficiently run jobs in the background
+https://codelabs.developers.google.com/codelabs/android-workmanager
+## App data and files
+### Define data using Room entities
+https://codelabs.developers.google.com/codelabs/build-app-with-arch-components
+https://codelabs.developers.google.com/codelabs/android-room-with-a-view
+https://codelabs.developers.google.com/codelabs/android-training-room-delete-data
+### Access Room database with data access object (DAO)
+https://codelabs.developers.google.com/codelabs/build-app-with-arch-components
+https://codelabs.developers.google.com/codelabs/android-room-with-a-view
+https://codelabs.developers.google.com/codelabs/android-training-room-delete-data
+### Observe and respond to changing data using LiveData
+https://codelabs.developers.google.com/codelabs/build-app-with-arch-components
+https://codelabs.developers.google.com/codelabs/android-training-livedata-viewmodel
+### Use a Repository to handle data operations
+https://codelabs.developers.google.com/codelabs/build-app-with-arch-components
+### Read and parse raw resources or asset files
+(No suitable codelab found)
+https://developer.android.com/guide/topics/resources/providing-resources
+### Create persistent preference data from user input
+https://codelabs.developers.google.com/codelabs/android-training-shared-preferences
+### Change the behavior of the app based on user preferences
+https://codelabs.developers.google.com/codelabs/android-training-adding-settings-to-app
 
 # License
 
