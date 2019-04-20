@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="ic_launcher_foreground_2" type="drawable">@android:drawable/ic_dialog_email</item>
+</resources>
